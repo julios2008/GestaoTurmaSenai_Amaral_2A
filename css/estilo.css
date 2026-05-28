@@ -1,3 +1,15 @@
 @charset "UTF-8";
 @import "reset.css";
 @import "cores.css";
+
+@font-face{
+    font-family: Unifranklin;
+    src: url(fontes/UnifrakturMaguntia-Regular.ttf) ;
+}
+
+body{
+    color: var(--platinum);
+    font-family: Unifranklin;
+    background-color: var(--midnight-violet);
+}
+
