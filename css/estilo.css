@@ -2,6 +2,7 @@
 @import "reset.css";
 @import "cores.css";
 
+<<<<<<< HEAD
 body {
     color: var(--platinum);
     font-family: Fortnite;
@@ -76,3 +77,16 @@ section {
 .listaAlunos li {
     padding: 5px;
 }
+=======
+@font-face{
+    font-family: Unifranklin;
+    src: url(fontes/UnifrakturMaguntia-Regular.ttf) ;
+}
+
+body{
+    color: var(--platinum);
+    font-family: Unifranklin;
+    background-color: var(--midnight-violet);
+}
+
+>>>>>>> bb3da8c50f175e77d80cecb7cff3409d58808d3e
